@@ -483,7 +483,7 @@ export default function Home() {
            <small>2024 – PRESENT</small>
            <h4>University of Moratuwa</h4>
            <p>Pursuing a B.Sc. (Hons) in Information Technology &amp; Management</p>
-           <p>GPA: 3.45 / 4.00</p>
+           <p>GPA: 3.52 / 4.00</p>
           </div>
           <div className="tl-item">
            <small>2023 – 2025</small>
